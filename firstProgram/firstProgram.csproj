@@ -7,8 +7,8 @@
     <ProjectGuid>{FEA33CE6-2DFF-4531-9D0B-8E068914BEAB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>litfamhelloworld</RootNamespace>
-    <AssemblyName>litfamhelloworld</AssemblyName>
+    <RootNamespace>firstProgram</RootNamespace>
+    <AssemblyName>firstProgram</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>litfamhelloworld.anotherClass</StartupObject>
+    <StartupObject>firstProgram.anotherClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -5,11 +5,11 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace litfamhelloworld
+namespace firstProgram
 {
     class Program
     {
-        public static void readShit()
+        public static void readStuff()
         {
             Console.ReadLine();
         }
@@ -50,7 +50,7 @@ namespace litfamhelloworld
             
 
 
-            readShit();
+            readStuff();
         }
 
     }

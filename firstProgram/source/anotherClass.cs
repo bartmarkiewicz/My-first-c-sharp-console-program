@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace litfamhelloworld
+namespace firstProgram
 {
     class anotherClass : goodName
     {
@@ -57,7 +57,7 @@ namespace litfamhelloworld
             }
             printBoard(xLoc);
             Console.WriteLine("You went out of bounds, therefore you lose HAHAHAHHA");
-            Program.readShit();
+            Program.readStuff();
         }
     }
 }
